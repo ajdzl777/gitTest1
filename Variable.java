@@ -3,7 +3,8 @@ public static void main(String[] args) {
 
 	System.out.print("hotfix branch");
 	System.out.print("master bracnch");
-
+	System.out.print("hotfix branch2");
+>>>>>>> hotfix
 
 
 
